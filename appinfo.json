@@ -1,0 +1,18 @@
+{
+    "capabilities": [
+        ""
+    ],
+    "appKeys": {},
+    "resources": {
+        "media": []
+    },
+    "shortName": "pebbleSay",
+    "longName": "pebbleSay",
+    "versionCode": 1,
+    "companyName": "kyle@kptechblog.com",
+    "versionLabel": "1.0",
+    "uuid": "7b95d892-a8a4-4c91-b26d-8dd7ad30975c",
+    "watchapp": {
+        "watchface": false
+    }
+}
